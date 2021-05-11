@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1620735113601,149,getAllVehiclesUsingGET - Success,200,,Thread Group - getAllVehiclesUsingGET 4-1,text,true,,174,132,1,6,148,0,94
+1620735113602,151,editVehicleUsingPUT - Success,400,,Thread Group - editVehicleUsingPUT 3-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,164,1,6,150,0,93
+1620735113601,150,getVehicleByIDUsingGET - Success,404,,Thread Group - getVehicleByIDUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,137,1,6,150,0,94
+1620735113601,150,deleteVehicleUsingDELETE - Success,204,,Thread Group - deleteVehicleUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,156,1,6,0,0,94
+1620735113602,149,getVehicleByVinUsingGET - Success,200,,Thread Group - getVehicleByVinUsingGET 6-1,,true,,121,138,1,6,149,0,93
+1620735113759,17,getAllVehiclesUsingGET - Success,200,,Thread Group - getAllVehiclesUsingGET 4-1,text,true,,174,132,1,6,16,0,0
+1620735113760,22,deleteVehicleUsingDELETE - Success,204,,Thread Group - deleteVehicleUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,156,1,6,0,0,0
+1620735113760,27,getVehicleByIDUsingGET - Success,404,,Thread Group - getVehicleByIDUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,137,1,6,27,0,0
+1620735113777,12,getAllVehiclesUsingGET - Success,200,,Thread Group - getAllVehiclesUsingGET 4-1,text,true,,174,132,1,6,12,0,0
+1620735113783,10,deleteVehicleUsingDELETE - Success,204,,Thread Group - deleteVehicleUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,156,1,6,0,0,0
+1620735113790,8,getVehicleByIDUsingGET - Success,404,,Thread Group - getVehicleByIDUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,137,1,6,8,0,0
+1620735113764,40,getVehicleByVinUsingGET - Success,200,,Thread Group - getVehicleByVinUsingGET 6-1,,true,,121,138,1,6,40,0,0
+1620735113792,12,getAllVehiclesUsingGET - Success,200,,Thread Group - getAllVehiclesUsingGET 4-1,text,true,,174,132,1,6,12,0,0
+1620735113795,15,deleteVehicleUsingDELETE - Success,204,,Thread Group - deleteVehicleUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,156,1,6,0,0,0
+1620735113800,16,getVehicleByIDUsingGET - Success,404,,Thread Group - getVehicleByIDUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,137,1,6,16,0,0
+1620735113806,17,getAllVehiclesUsingGET - Success,200,,Thread Group - getAllVehiclesUsingGET 4-1,text,true,,174,132,1,6,17,0,0
+1620735113765,65,editVehicleUsingPUT - Success,400,,Thread Group - editVehicleUsingPUT 3-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,164,1,6,63,0,2
+1620735113805,26,getVehicleByVinUsingGET - Success,200,,Thread Group - getVehicleByVinUsingGET 6-1,,true,,121,138,1,6,26,0,0
+1620735113825,16,getAllVehiclesUsingGET - Success,200,,Thread Group - getAllVehiclesUsingGET 4-1,text,true,,174,132,1,6,15,0,0
+1620735113818,26,getVehicleByIDUsingGET - Success,404,,Thread Group - getVehicleByIDUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,137,1,6,26,0,0
+1620735113831,14,editVehicleUsingPUT - Success,400,,Thread Group - editVehicleUsingPUT 3-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,164,1,6,9,0,2
+1620735113812,41,deleteVehicleUsingDELETE - Success,204,,Thread Group - deleteVehicleUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,156,1,6,0,0,0
+1620735113843,13,getAllVehiclesUsingGET - Success,200,,Thread Group - getAllVehiclesUsingGET 4-1,text,true,,174,132,1,6,13,0,0
+1620735113846,15,getVehicleByIDUsingGET - Success,404,,Thread Group - getVehicleByIDUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,137,1,6,15,0,0
+1620735113847,18,editVehicleUsingPUT - Success,400,,Thread Group - editVehicleUsingPUT 3-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,164,1,6,18,0,1
+1620735113858,15,getAllVehiclesUsingGET - Success,200,,Thread Group - getAllVehiclesUsingGET 4-1,text,true,,174,132,1,6,15,0,0
+1620735113854,22,deleteVehicleUsingDELETE - Success,204,,Thread Group - deleteVehicleUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,156,1,6,0,0,0
+1620735113874,6,getAllVehiclesUsingGET - Success,200,,Thread Group - getAllVehiclesUsingGET 4-1,text,true,,174,132,1,6,6,0,0
+1620735113832,50,getVehicleByVinUsingGET - Success,200,,Thread Group - getVehicleByVinUsingGET 6-1,,true,,121,138,1,6,50,0,0
+1620735113877,9,deleteVehicleUsingDELETE - Success,204,,Thread Group - deleteVehicleUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,156,1,6,0,0,0
+1620735113882,9,getAllVehiclesUsingGET - Success,200,,Thread Group - getAllVehiclesUsingGET 4-1,text,true,,174,132,1,6,8,0,0
+1620735113884,13,getVehicleByVinUsingGET - Success,200,,Thread Group - getVehicleByVinUsingGET 6-1,,true,,121,138,1,5,13,0,0
+1620735113887,16,deleteVehicleUsingDELETE - Success,204,,Thread Group - deleteVehicleUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,156,1,5,0,0,0
+1620735113898,11,getVehicleByVinUsingGET - Success,200,,Thread Group - getVehicleByVinUsingGET 6-1,,true,,121,138,1,5,11,0,0
+1620735113862,50,getVehicleByIDUsingGET - Success,404,,Thread Group - getVehicleByIDUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,137,1,5,50,0,0
+1620735113910,7,getVehicleByVinUsingGET - Success,200,,Thread Group - getVehicleByVinUsingGET 6-1,,true,,121,138,1,5,7,0,0
+1620735113867,52,editVehicleUsingPUT - Success,400,,Thread Group - editVehicleUsingPUT 3-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,164,1,5,51,0,2
+1620735113905,20,deleteVehicleUsingDELETE - Success,204,,Thread Group - deleteVehicleUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,156,1,5,0,0,0
+1620735113913,12,getVehicleByIDUsingGET - Success,404,,Thread Group - getVehicleByIDUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,137,1,5,12,0,0
+1620735113919,12,getVehicleByVinUsingGET - Success,200,,Thread Group - getVehicleByVinUsingGET 6-1,,true,,121,138,1,5,12,0,0
+1620735113928,9,getVehicleByIDUsingGET - Success,404,,Thread Group - getVehicleByIDUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,137,1,5,9,0,0
+1620735113921,20,editVehicleUsingPUT - Success,400,,Thread Group - editVehicleUsingPUT 3-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,164,1,5,15,0,1
+1620735113932,13,getVehicleByVinUsingGET - Success,200,,Thread Group - getVehicleByVinUsingGET 6-1,,true,,121,138,1,5,13,0,0
+1620735113939,11,getVehicleByIDUsingGET - Success,404,,Thread Group - getVehicleByIDUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,137,1,5,11,0,0
+1620735113945,10,editVehicleUsingPUT - Success,400,,Thread Group - editVehicleUsingPUT 3-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,164,1,4,9,0,2
+1620735113946,8,getVehicleByVinUsingGET - Success,200,,Thread Group - getVehicleByVinUsingGET 6-1,,true,,121,138,1,4,8,0,0
+1620735113927,34,deleteVehicleUsingDELETE - Success,204,,Thread Group - deleteVehicleUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,156,1,3,0,0,0
+1620735113957,10,editVehicleUsingPUT - Success,400,,Thread Group - editVehicleUsingPUT 3-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,164,1,2,9,0,2
+1620735113968,9,editVehicleUsingPUT - Success,400,,Thread Group - editVehicleUsingPUT 3-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,164,1,2,9,0,2
+1620735113979,7,editVehicleUsingPUT - Success,400,,Thread Group - editVehicleUsingPUT 3-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,164,1,2,7,0,1
+1620735113601,424,addNewVehicleUsingPOST - Success,500,,Thread Group - addNewVehicleUsingPOST 1-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",92,372,1,1,424,0,94
+1620735114027,8,addNewVehicleUsingPOST - Success,500,,Thread Group - addNewVehicleUsingPOST 1-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",92,372,1,1,8,0,2
+1620735114037,8,addNewVehicleUsingPOST - Success,500,,Thread Group - addNewVehicleUsingPOST 1-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",92,372,1,1,8,0,2
+1620735114046,7,addNewVehicleUsingPOST - Success,500,,Thread Group - addNewVehicleUsingPOST 1-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",92,372,1,1,7,0,1
+1620735114054,7,addNewVehicleUsingPOST - Success,500,,Thread Group - addNewVehicleUsingPOST 1-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",92,372,1,1,7,0,2
+1620735114063,7,addNewVehicleUsingPOST - Success,500,,Thread Group - addNewVehicleUsingPOST 1-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",92,372,1,1,7,0,1
+1620735114072,7,addNewVehicleUsingPOST - Success,500,,Thread Group - addNewVehicleUsingPOST 1-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",92,372,1,1,7,0,1
+1620735114080,8,addNewVehicleUsingPOST - Success,500,,Thread Group - addNewVehicleUsingPOST 1-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",92,372,1,1,8,0,2
+1620735114091,7,addNewVehicleUsingPOST - Success,500,,Thread Group - addNewVehicleUsingPOST 1-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",92,372,1,1,7,0,1
+1620735114100,7,addNewVehicleUsingPOST - Success,500,,Thread Group - addNewVehicleUsingPOST 1-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",92,372,1,1,7,0,1

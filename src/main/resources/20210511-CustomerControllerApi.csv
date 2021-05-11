@@ -1,0 +1,361 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1620735088701,149,updateCustomerUsingPUT - Success,400,,Thread Group - updateCustomerUsingPUT 6-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,152,1,6,148,0,82
+1620735088701,152,addCustomerUsingPOST - Success,415,,Thread Group - addCustomerUsingPOST 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[415]]]
+
+****** comparison: [[[200]]]
+
+/",5812,202,1,6,152,0,82
+1620735088858,15,addCustomerUsingPOST - Success,415,,Thread Group - addCustomerUsingPOST 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[415]]]
+
+****** comparison: [[[200]]]
+
+/",5812,202,1,6,13,0,0
+1620735088875,10,addCustomerUsingPOST - Success,415,,Thread Group - addCustomerUsingPOST 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[415]]]
+
+****** comparison: [[[200]]]
+
+/",5812,202,1,6,9,0,0
+1620735088860,29,updateCustomerUsingPUT - Success,400,,Thread Group - updateCustomerUsingPUT 6-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,152,1,6,27,0,2
+1620735088887,15,addCustomerUsingPOST - Success,415,,Thread Group - addCustomerUsingPOST 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[415]]]
+
+****** comparison: [[[200]]]
+
+/",5812,202,1,6,14,0,0
+1620735088891,14,updateCustomerUsingPUT - Success,400,,Thread Group - updateCustomerUsingPUT 6-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,152,1,6,10,0,1
+1620735088907,14,updateCustomerUsingPUT - Success,400,,Thread Group - updateCustomerUsingPUT 6-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,152,1,6,12,0,1
+1620735088904,18,addCustomerUsingPOST - Success,415,,Thread Group - addCustomerUsingPOST 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[415]]]
+
+****** comparison: [[[200]]]
+
+/",5812,202,1,6,16,0,0
+1620735088924,10,updateCustomerUsingPUT - Success,400,,Thread Group - updateCustomerUsingPUT 6-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,152,1,6,8,0,2
+1620735088923,11,addCustomerUsingPOST - Success,415,,Thread Group - addCustomerUsingPOST 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[415]]]
+
+****** comparison: [[[200]]]
+
+/",5812,202,1,6,10,0,0
+1620735088935,10,updateCustomerUsingPUT - Success,400,,Thread Group - updateCustomerUsingPUT 6-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,152,1,6,9,0,2
+1620735088937,18,addCustomerUsingPOST - Success,415,,Thread Group - addCustomerUsingPOST 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[415]]]
+
+****** comparison: [[[200]]]
+
+/",5812,202,1,6,18,0,0
+1620735088957,23,addCustomerUsingPOST - Success,415,,Thread Group - addCustomerUsingPOST 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[415]]]
+
+****** comparison: [[[200]]]
+
+/",5812,202,1,6,23,0,0
+1620735088947,35,updateCustomerUsingPUT - Success,400,,Thread Group - updateCustomerUsingPUT 6-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,152,1,6,27,0,1
+1620735088981,9,addCustomerUsingPOST - Success,415,,Thread Group - addCustomerUsingPOST 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[415]]]
+
+****** comparison: [[[200]]]
+
+/",5812,202,1,6,9,0,0
+1620735088992,6,addCustomerUsingPOST - Success,415,,Thread Group - addCustomerUsingPOST 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[415]]]
+
+****** comparison: [[[200]]]
+
+/",5812,202,1,6,6,0,0
+1620735088983,15,updateCustomerUsingPUT - Success,400,,Thread Group - updateCustomerUsingPUT 6-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,152,1,6,14,0,2
+1620735088999,12,updateCustomerUsingPUT - Success,400,,Thread Group - updateCustomerUsingPUT 6-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,152,1,5,10,0,2
+1620735089012,8,updateCustomerUsingPUT - Success,400,,Thread Group - updateCustomerUsingPUT 6-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",5871,152,1,5,7,0,1
+1620735088701,496,deleteCustomerByIdUsingDELETE - Success,204,,Thread Group - deleteCustomerByIdUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,157,1,4,0,0,82
+1620735088701,513,getALLCustomerUsingGET - Success,200,,Thread Group - getALLCustomerUsingGET 3-1,text,true,,174,133,1,4,513,0,82
+1620735088701,514,getCustomerByMobilePhoneUsingGET - Success,404,,Thread Group - getCustomerByMobilePhoneUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,142,1,4,514,0,82
+1620735088701,518,getCustomerByCustomerIDUsingGET - Success,404,,Thread Group - getCustomerByCustomerIDUsingGET 4-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,135,1,4,518,0,82
+1620735089199,30,deleteCustomerByIdUsingDELETE - Success,204,,Thread Group - deleteCustomerByIdUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,157,1,4,0,0,0
+1620735089215,24,getALLCustomerUsingGET - Success,200,,Thread Group - getALLCustomerUsingGET 3-1,text,true,,174,133,1,4,16,0,0
+1620735089217,30,getCustomerByMobilePhoneUsingGET - Success,404,,Thread Group - getCustomerByMobilePhoneUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,142,1,4,30,0,0
+1620735089230,20,deleteCustomerByIdUsingDELETE - Success,204,,Thread Group - deleteCustomerByIdUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,157,1,4,0,0,0
+1620735089241,14,getALLCustomerUsingGET - Success,200,,Thread Group - getALLCustomerUsingGET 3-1,text,true,,174,133,1,4,14,0,0
+1620735089221,34,getCustomerByCustomerIDUsingGET - Success,404,,Thread Group - getCustomerByCustomerIDUsingGET 4-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,135,1,4,34,0,0
+1620735089258,11,getCustomerByCustomerIDUsingGET - Success,404,,Thread Group - getCustomerByCustomerIDUsingGET 4-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,135,1,4,11,0,0
+1620735089249,22,getCustomerByMobilePhoneUsingGET - Success,404,,Thread Group - getCustomerByMobilePhoneUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,142,1,4,22,0,0
+1620735089257,24,getALLCustomerUsingGET - Success,200,,Thread Group - getALLCustomerUsingGET 3-1,text,true,,174,133,1,4,23,0,0
+1620735089273,8,getCustomerByMobilePhoneUsingGET - Success,404,,Thread Group - getCustomerByMobilePhoneUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,142,1,4,8,0,0
+1620735089283,7,getCustomerByMobilePhoneUsingGET - Success,404,,Thread Group - getCustomerByMobilePhoneUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,142,1,4,7,0,0
+1620735089270,24,getCustomerByCustomerIDUsingGET - Success,404,,Thread Group - getCustomerByCustomerIDUsingGET 4-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,135,1,4,24,0,0
+1620735089252,46,deleteCustomerByIdUsingDELETE - Success,204,,Thread Group - deleteCustomerByIdUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,157,1,4,0,0,0
+1620735089295,7,getCustomerByCustomerIDUsingGET - Success,404,,Thread Group - getCustomerByCustomerIDUsingGET 4-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,135,1,4,7,0,0
+1620735089292,14,getCustomerByMobilePhoneUsingGET - Success,404,,Thread Group - getCustomerByMobilePhoneUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,142,1,4,13,0,0
+1620735089299,15,deleteCustomerByIdUsingDELETE - Success,204,,Thread Group - deleteCustomerByIdUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,157,1,4,0,0,0
+1620735089304,15,getCustomerByCustomerIDUsingGET - Success,404,,Thread Group - getCustomerByCustomerIDUsingGET 4-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,135,1,4,15,0,0
+1620735089308,12,getCustomerByMobilePhoneUsingGET - Success,404,,Thread Group - getCustomerByMobilePhoneUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,142,1,4,12,0,0
+1620735089315,14,deleteCustomerByIdUsingDELETE - Success,204,,Thread Group - deleteCustomerByIdUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,157,1,4,0,0,0
+1620735089321,10,getCustomerByCustomerIDUsingGET - Success,404,,Thread Group - getCustomerByCustomerIDUsingGET 4-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,135,1,4,10,0,0
+1620735089323,12,getCustomerByMobilePhoneUsingGET - Success,404,,Thread Group - getCustomerByMobilePhoneUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,142,1,4,12,0,0
+1620735089331,12,deleteCustomerByIdUsingDELETE - Success,204,,Thread Group - deleteCustomerByIdUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,157,1,4,0,0,0
+1620735089333,14,getCustomerByCustomerIDUsingGET - Success,404,,Thread Group - getCustomerByCustomerIDUsingGET 4-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,135,1,4,14,0,0
+1620735089337,10,getCustomerByMobilePhoneUsingGET - Success,404,,Thread Group - getCustomerByMobilePhoneUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,142,1,4,10,0,0
+1620735089348,9,getCustomerByCustomerIDUsingGET - Success,404,,Thread Group - getCustomerByCustomerIDUsingGET 4-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,135,1,4,9,0,0
+1620735089349,12,getCustomerByMobilePhoneUsingGET - Success,404,,Thread Group - getCustomerByMobilePhoneUsingGET 5-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,142,1,4,12,0,0
+1620735089344,21,deleteCustomerByIdUsingDELETE - Success,204,,Thread Group - deleteCustomerByIdUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,157,1,3,0,0,0
+1620735089358,15,getCustomerByCustomerIDUsingGET - Success,404,,Thread Group - getCustomerByCustomerIDUsingGET 4-1,,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",121,135,1,3,15,0,0
+1620735089367,7,deleteCustomerByIdUsingDELETE - Success,204,,Thread Group - deleteCustomerByIdUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,157,1,2,0,0,0
+1620735089376,6,deleteCustomerByIdUsingDELETE - Success,204,,Thread Group - deleteCustomerByIdUsingDELETE 2-1,,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[4]]]
+
+****** comparison: 20[[[0]]]
+
+/",102,157,1,2,0,0,0
+1620735089283,104,getALLCustomerUsingGET - Success,200,,Thread Group - getALLCustomerUsingGET 3-1,text,true,,174,133,1,1,104,0,0
+1620735089389,6,getALLCustomerUsingGET - Success,200,,Thread Group - getALLCustomerUsingGET 3-1,text,true,,174,133,1,1,6,0,0
+1620735089397,6,getALLCustomerUsingGET - Success,200,,Thread Group - getALLCustomerUsingGET 3-1,text,true,,174,133,1,1,6,0,0
+1620735089404,7,getALLCustomerUsingGET - Success,200,,Thread Group - getALLCustomerUsingGET 3-1,text,true,,174,133,1,1,7,0,0
+1620735089412,6,getALLCustomerUsingGET - Success,200,,Thread Group - getALLCustomerUsingGET 3-1,text,true,,174,133,1,1,6,0,0
+1620735089419,6,getALLCustomerUsingGET - Success,200,,Thread Group - getALLCustomerUsingGET 3-1,text,true,,174,133,1,1,6,0,0

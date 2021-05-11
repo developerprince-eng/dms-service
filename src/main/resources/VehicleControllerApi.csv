@@ -1,0 +1,2 @@
+testCase,httpStatusCode,id,maturityDate,purchaseDate,termLength,vehicleColor,vehicleID,vehicleMake,vehicleModel,vehicleModelYear,vehiclePurchasePrice,vehicleTrim,vehicleVin,id,vehicle,id,vin
+Success,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
